@@ -6,13 +6,13 @@ fun main() {
 
     // println("Hello World!")
 
-    /**======================================================== Key Word ========================================================**/
+    /**================================================== Key Word ==================================================**/
 
-    /**------------------------------- Object -------------------------------**/
+    /** Object ----------------------------------------------*/
 
     /* You can use any variable or function without creating object
-     * by using object keyword.*/
-
+     * by using object keyword instead of class.
+     */
 
     println(CostCalculation.pocketCost)
     println(CostCalculation.getTotalCost())
