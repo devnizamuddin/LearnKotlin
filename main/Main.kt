@@ -1,5 +1,18 @@
 package main
 
+import main.keyword.`object`.CostCalculation
+
 fun main() {
-    println("Hello World!")
+    //println("Hello World!")
+
+    // ============================ ------------------------------- KeyWord ------------------------------- ============================ //
+
+    // ============================ ------------------------------- Object
+    // You can use any variable or function without creating object by using object keyword
+    println(CostCalculation.pocketCost)
+    println(CostCalculation.getTotalCost())
+    CostCalculation.pocketCost = 80
+    println(CostCalculation.pocketCost)
+
+
 }
