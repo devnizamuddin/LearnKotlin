@@ -12,4 +12,12 @@ fun main() {
     val byteValue: Byte = 127
     println(byteValue)
 
+
+    /**------------------------Short------------------------*/
+
+    /* 8 bits | -128 to 127 | Signed integer */
+
+    val shortValue: Short = 32767
+    println(shortValue)
+
 }
