@@ -35,4 +35,11 @@ fun main() {
     val longValue: Long = 9223372036854775807
     println(longValue)
 
+    /**------------------------Float------------------------*/
+
+    /* 32 bits | ±1.4E-45 to ±3.4028235E38 | Floating-point number */
+
+    val floatValue: Float = 3.1415f
+    println(floatValue)
+
 }
