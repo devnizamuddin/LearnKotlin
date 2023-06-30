@@ -28,4 +28,11 @@ fun main() {
     val intValue: Int = 2147483647
     println(intValue)
 
+    /**-------------------------Long-------------------------*/
+
+    /* 64 bits | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 | Signed integer */
+
+    val longValue: Long = 9223372036854775807
+    println(longValue)
+
 }
