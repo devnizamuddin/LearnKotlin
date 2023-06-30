@@ -42,4 +42,11 @@ fun main() {
     val floatValue: Float = 3.1415f
     println(floatValue)
 
+    /**------------------------Double------------------------*/
+
+    /* 64 bits | ±4.9E-324 to ±1.7976931348623157E308 | Floating-point number */
+
+    val doubleValue: Double = 1.7976931348623157E308
+    println(doubleValue)
+
 }
