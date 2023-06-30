@@ -10,6 +10,7 @@ fun main() {
 
 
     /**------------------------ object ------------------------*/
+
     /* You can use any variable or function without creating object of your desired class.
      * Use object keyword instead of class.
      */
