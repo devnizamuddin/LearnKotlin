@@ -2,8 +2,8 @@ package main.keyword.`object`
 
 object CostCalculation {
 
-    /** You can use any variable or function without creating object of your desired class
-     * by using object keyword instead of class.
+    /** You can use any variable or function without creating object of your desired class.
+     * Use object keyword instead of class.
      */
 
     var roomRent = 50

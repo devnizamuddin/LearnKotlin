@@ -10,8 +10,8 @@ fun main() {
 
 
     /**------------------------ object ------------------------*/
-    /* You can use any variable or function without creating object of your desired class
-     * by using object keyword instead of class.
+    /* You can use any variable or function without creating object of your desired class.
+     * Use object keyword instead of class.
      */
 
     println(CostCalculation.pocketCost)
