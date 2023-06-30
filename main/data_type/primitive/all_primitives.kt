@@ -20,4 +20,12 @@ fun main() {
     val shortValue: Short = 32767
     println(shortValue)
 
+
+    /**-------------------------Int-------------------------*/
+
+    /* 32 bits | -2,147,483,648 to 2,147,483,647 | Signed integer */
+
+    val intValue: Int = 2147483647
+    println(intValue)
+
 }
