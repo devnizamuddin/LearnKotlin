@@ -8,9 +8,9 @@ fun main() {
 
     /**================================================== Key Word ==================================================**/
 
-    /** Object ----------------------------------------------*/
 
-    /* You can use any variable or function without creating object
+    /**------------------------ object ------------------------*/
+    /* You can use any variable or function without creating object of your desired class
      * by using object keyword instead of class.
      */
 
