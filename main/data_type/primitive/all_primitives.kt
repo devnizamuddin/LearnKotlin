@@ -56,4 +56,11 @@ fun main() {
     val charValue: Char = 'A'
     println(charValue)
 
+    /**-----------------------Boolean-----------------------*/
+
+    /* 1 bit | true or false | Boolean value */
+
+    val booleanValue: Boolean = true
+    println(booleanValue)
+
 }
