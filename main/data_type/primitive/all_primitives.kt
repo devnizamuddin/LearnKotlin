@@ -49,4 +49,11 @@ fun main() {
     val doubleValue: Double = 1.7976931348623157E308
     println(doubleValue)
 
+    /**-------------------------Char-------------------------*/
+
+    /* 16 bits | 0 to 65,535 | Unicode character */
+
+    val charValue: Char = 'A'
+    println(charValue)
+
 }
