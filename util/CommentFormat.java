@@ -4,16 +4,19 @@ public class CommentFormat {
 
     public static void main(String[] args) {
 
-        generateTitleComment(" Nizam ",110);
-        generateTitleComment(" Shakil ",110);
-
-        generateSubtitleComment("nizam",54);
-        generateSubtitleComment("Companion Object",54);
+//        generateTitleComment(" All Primitives ",110);
+//        generateTitleComment(" Shakil ",110);
+//
+        generateSubtitleComment("Float",54);
+        generateSubtitleComment("Double",54);
+        generateSubtitleComment("Char",54);
+        generateSubtitleComment("Boolean",54);
+//        generateSubtitleComment("Companion Object",54);
 
 
     }
 
-    static void generateTitleComment(String comment, int symbolLength) {
+    public void generateTitleComment(String comment, int symbolLength) {
 
         System.out.println("comment : " + comment);
         System.out.println("symbolLength : " + symbolLength);
